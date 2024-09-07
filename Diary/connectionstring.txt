@@ -1,0 +1,1 @@
+﻿Server=localhost;Database=Diary;Trusted_Connection=true;
